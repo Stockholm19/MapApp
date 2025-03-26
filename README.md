@@ -5,8 +5,8 @@
 📍 Выберите место на карте → 📷 посмотрите фотографии → ℹ️ почитайте описание → 🔗 откройте ссылку на Wikipedia.
 <p align="center">
   <img src="https://i.imgur.com/RfRaCUW.png" width=30%/>
+  <img src="https://i.imgur.com/eJM28UX.png" width=30%/>
   <img src="https://i.imgur.com/uBzNPbp.png" width=30%/>
-  <img src="https://i.imgur.com/M9SfJ0U.png" width=30%/>
 </p>
 
 ## 🚀 Функциональность
